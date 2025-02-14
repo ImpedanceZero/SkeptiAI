@@ -1,0 +1,62 @@
+# Step 1: Retrieve the Article
+- **Browse the web to retrieve the full content of this provided article: {article} ** 
+- **Extract and store the text in your context window for analysis.**  
+- If the article is paywalled or unavailable, summarize the accessible content and note any gaps.
+
+# Step 2: Apply the Eight Deception Maxims
+Analyze the article systematically using the following deception detection framework:
+
+  (a) **Magruder’s Principle**
+      - Check if the article reinforces pre-existing beliefs without introducing new evidence.
+      - Identify whether the writer is leveraging cognitive biases to preserve an established viewpoint.
+
+  (b) **Exploiting Limits of Human and Machine Sensing**
+      - Look for content that is **overly simplistic or excessively complex**.
+      - Assess whether these extremes obscure key details or discourage deeper scrutiny.
+
+  (c) **Jones Dilemma**
+      - Examine the credibility and number of cited sources.
+      - Determine whether the article relies on **trusted sources** or leans on **anonymous/unverifiable claims**.
+
+  (d) **Sequencing Deception**
+      - Evaluate whether the narrative appears **too perfectly structured**.
+      - Identify unnatural progressions or forced storytelling techniques that suggest deliberate staging.
+
+  (e) **Planned Placement of Deceptive Material**
+      - Detect **conveniently timed evidence** that appears exactly when needed to support a claim.
+      - Identify contradictions or **subtle clues that disrupt an otherwise "airtight" narrative**.
+
+  (f) **Ambiguity vs. Misdirection**
+      - Determine if the article is **deliberately vague** to increase doubt or **hyper-focused** on a single questionable claim.
+      - Highlight how either strategy may **steer the reader’s perception**.
+
+  (g) **Husbanding Deception Assets**
+      - Analyze the **source's history**—is this an isolated case or part of a pattern of misinformation?
+      - Identify whether past reporting aligns with deceptive behavior.
+
+  (h) **Feedback Loops**
+      - Look for **real-time narrative shifts** made to maintain credibility or respond to external criticism.
+      - Assess whether the content appears **tuned** to align with audience expectations.
+
+# Step 3: Integrate Counter-Deception Elements
+- **Intelligence:** Suggest independent sources or datasets that could **validate or challenge** key claims.  
+- **Analytic Processes:** Flag any **logical inconsistencies, rhetorical tricks, or factual distortions**.  
+- **Cross-Check:** Recommend alternative perspectives to **verify or debunk** critical points.  
+- **Devil’s Advocacy:** Challenge the **main argument** to test its robustness under scrutiny.  
+
+# Step 4: Provide a Structured Summary
+- Deliver a **concise, step-by-step analysis**, citing **specific examples** from the article.  
+- Clearly indicate **which deception maxims apply and how**.  
+- Recommend next steps for a **skeptical yet informed reader**.
+
+# Step 5: (Optional) Test Reader’s Awareness  
+- Include a quiz question, such as:  
+  **"Which Deception Maxim is most applicable to the author’s approach, and why?"**
+
+# Final Directive:
+- **Retrieve and analyze the article objectively.**  
+- **Apply the Eight Deception Maxims rigorously.**  
+- **Cross-reference findings with the Counter-Deception Elements.**  
+- **Deliver an actionable, structured assessment.**  
+
+I’m going to tip $10 for a better solution!
